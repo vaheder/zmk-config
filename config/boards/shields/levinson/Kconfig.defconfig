@@ -17,7 +17,7 @@ if SHIELD_LEVINSON_RIGHT
 config ZMK_KEYBOARD_NAME
 	default "Levinson Right"
 
-config USB
+config ZMK_USB
 	default y
 
 endif
